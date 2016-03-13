@@ -2,6 +2,10 @@
   "name": "webreed-yaml-handler",
   "version": "0.0.1",
   "description": "YAML encoding/decoding handler plugin for webreed.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webreed/webreed-yaml-handler"
+  },
   "main": "lib/setup.js",
   "typings": "lib/setup.d.ts",
   "scripts": {
