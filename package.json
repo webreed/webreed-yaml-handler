@@ -1,6 +1,6 @@
 {
   "name": "webreed-yaml-handler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "YAML encoding/decoding handler plugin for webreed.",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "js-yaml": "^3.4.6",
-    "webreed-core": "^0.0.4"
+    "webreed-core": "^0.0.5"
   },
   "devDependencies": {
     "babel-cli": "^6.5.1",
