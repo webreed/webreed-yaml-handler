@@ -1,7 +1,11 @@
-# webreed-yaml-handler [![Build Status](https://travis-ci.org/webreed/webreed-yaml-handler.svg?branch=master)](https://travis-ci.org/webreed/webreed-yaml-handler)
+# webreed-yaml-handler
 
 A plugin for [webreed](https://github.com/webreed/webreed) that provides support for
 decoding and encoding YAML content.
+
+[![Build Status](https://travis-ci.org/webreed/webreed-yaml-handler.svg?branch=master)](https://travis-ci.org/webreed/webreed-yaml-handler)
+[![Dependency Status](https://david-dm.org/webreed/webreed-yaml-handler.svg)](https://david-dm.org/webreed/webreed-yaml-handler)
+[![devDependency Status](https://david-dm.org/webreed/webreed-yaml-handler/dev-status.svg)](https://david-dm.org/webreed/webreed-yaml-handler#info=devDependencies)
 
 
 ## Contribution Agreement
