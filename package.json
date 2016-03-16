@@ -1,6 +1,6 @@
 {
   "name": "webreed-yaml-handler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "YAML encoding/decoding handler plugin for webreed.",
   "repository": {
     "type": "git",
