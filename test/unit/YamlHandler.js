@@ -5,7 +5,7 @@
 import given from "mocha-testdata";
 import should from "should";
 
-import {YamlHandler} from "../lib/YamlHandler";
+import {YamlHandler} from "../../lib/YamlHandler";
 
 
 describe("YamlHandler", function () {

@@ -7,8 +7,8 @@ import should from "should";
 
 import {Environment} from "webreed-core/lib/Environment";
 
-import setup from "../lib/setup";
-import {YamlHandler} from "../lib/YamlHandler";
+import setup from "../../lib/setup";
+import {YamlHandler} from "../../lib/YamlHandler";
 
 
 describe("#setup(env, options)", function () {
